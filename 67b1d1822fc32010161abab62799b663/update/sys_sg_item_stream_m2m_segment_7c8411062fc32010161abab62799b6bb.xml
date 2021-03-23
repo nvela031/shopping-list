@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Shopping Item Item Stream">fc8411062fc32010161abab62799b6ba</item_stream>
+        <segment display_value="Shopping Item Item Stream Segment">748411062fc32010161abab62799b6ba</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-23 17:46:12</sys_created_on>
+        <sys_id>7c8411062fc32010161abab62799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_592363_shopping">67b1d1822fc32010161abab62799b663</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">67b1d1822fc32010161abab62799b663</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_7c8411062fc32010161abab62799b6bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-23 17:46:12</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
